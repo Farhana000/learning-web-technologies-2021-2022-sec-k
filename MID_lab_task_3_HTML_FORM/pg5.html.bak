@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+	<form method="" action=""> 
+	<fieldset>
+	<legend>degree</legend>
+		<br>
+		<input type="checkbox" name="degree"  /> SSC
+		<input type="checkbox" name="degree"  /> HSC
+		<input type="checkbox" name="degree"  /> BSc
+	
+	</fieldset>
+	<input type="submit" name="submit" value="Submit"></br>
+	<hr></hr>
+	</form>
+
+</body>
+</html>
