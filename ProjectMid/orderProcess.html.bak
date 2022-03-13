@@ -1,0 +1,55 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+	<form method="" action=""> 
+	<legend>ORDER Serial</legend>
+	<fieldset>
+	
+		
+		<table>
+			<tr>
+				<td>1st order to:</td>
+				<td><input type="text" name="name" value="" /> </br></td></br>
+				
+			</tr>
+			
+			<tr>
+				<td>2nd order to:</td>
+				<td><input type="text" name="name" value="" /> </td></br>
+				
+			</tr>
+			
+			<tr>
+				<td>3rd order to:</td>
+				<td><input type="text" name="name" value="" /> </td></br>
+				
+			</tr>
+			
+			<tr>
+				<td>4th order to:</td>
+				<td><input type="text" name="name" value="" /> </td></br>
+				
+			</tr>
+			<tr>
+				<td>5th order to:</td>
+				<td><input type="text" name="name" value="" /> </td></br>
+				
+			</tr>
+			
+		</table>
+		
+		
+		
+	<hr></hr>
+	
+	</fieldset>
+	
+	
+	<hr></hr>
+	</form>
+
+</body>
+</html>

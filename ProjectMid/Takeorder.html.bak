@@ -1,0 +1,54 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+	<form method="" action=""> 
+	<legend>ORDER OF CUSTOMER</legend>
+	<fieldset>
+	
+		<br>
+		<table>
+			<tr>
+				<td>Name:</td>
+				<td><input type="text" name="name" value="" /> </br></td></br>
+				
+			</tr>
+			
+			<tr>
+				<td>Address:</td>
+				<td><input type="text" name="address" value="" /> </td></br>
+				
+			</tr>
+			
+			<tr>
+				<td>Contact Number:</td>
+				<td><input type="number" name="number" value="" /> </td></br>
+				
+			</tr>
+			
+			
+		</table>
+		
+		
+		
+	<hr></hr>
+	Food ordered:
+			<select name="">
+				<option value="">buger</option>
+				<option value="">pasta</option>
+				<option value="">sandwhich</option>
+				<option value="">dunplings</option>
+			</select></br>
+			<hr></hr>
+	<input type="done" name="done" value="Done"/>
+	
+	</fieldset>
+	
+	
+	<hr></hr>
+	</form>
+
+</body>
+</html>
