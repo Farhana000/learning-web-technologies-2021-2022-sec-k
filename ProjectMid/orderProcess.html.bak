@@ -12,7 +12,7 @@
 		<table>
 			<tr>
 				<td>1st order to:</td>
-				<td><input type="text" name="name" value="" /> </br></td></br>
+				<td><input type="text" name="name" value="" />lolo </br></td></br>
 				
 			</tr>
 			

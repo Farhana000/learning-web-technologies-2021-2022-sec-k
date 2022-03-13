@@ -42,7 +42,7 @@
 				<option value="">dunplings</option>
 			</select></br>
 			<hr></hr>
-	<input type="done" name="done" value="Done"/>
+	<input type="submit" name="done" value="Done"/>
 	
 	</fieldset>
 	

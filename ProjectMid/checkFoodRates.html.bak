@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+	<form method="" action=""> 
+	<fieldset>
+	<legend>Food rates</legend>
+		<br>
+		<table>
+			
+			<tr>
+				<td></td>
+				<td> Food Rates of various foods</td></br>
+				
+			</tr>
+			Food ordered:
+			<select name="">
+				<option value="">buger</option>
+				<option value="">pasta</option>
+				<option value="">sandwhich</option>
+				<option value="">dunplings</option>
+			</select></br>
+			<hr></hr>
+			
+		</table>
+		
+		
+		
+	<hr></hr>
+	
+	</fieldset>
+	
+	<hr></hr>
+	</form>
+
+</body>
+</html>

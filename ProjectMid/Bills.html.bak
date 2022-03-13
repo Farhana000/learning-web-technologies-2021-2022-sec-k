@@ -1,0 +1,40 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+	<form method="" action=""> 
+	<legend>Bill payment status</legend>
+	<fieldset>
+	
+		
+		<table>
+			<tr>
+				<td>Name:</td>
+				<td><input type="text" name="name" value="" /> </br></td></br>
+				
+			</tr>
+			
+			<tr>
+				<td>Contact number:</td>
+				<td><input type="number" name="number" value="" /> </td></br>
+				
+			</tr>
+			
+			
+			
+		</table>
+		
+		
+		
+	<hr></hr>
+	<input type="submit" name="show status" value="Click to show Payment Status"/>
+	</fieldset>
+	
+	
+	<hr></hr>
+	</form>
+
+</body>
+</html>
